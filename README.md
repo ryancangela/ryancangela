@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryancangela
-- 👀 I’m interested in learning more html, css, javascript and python
+- 👀 I’m interested in learning more html, css, and javascript (frontend development)
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me ryan.c.angela@gmail.com
 
 <!---
