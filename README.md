@@ -4,10 +4,10 @@ Hi 👋 My name is Ryan Angela
 Front-end Dev / UI Designer
 ---------------------------
 
-Started off as a designer and looking to continue pushing myself more into developing. Work mostly with front-end of websites but want to expand my knowledge of languages and frameworks for both front and back-end development
+Started off as a designer and looking to continue growing as a developior. Work mostly with front-end of websites but want to expand my knowledge of languages and frameworks for both front and back-end development
 
-* 🌍  I'm based in New York
-* 🖥️  See my portfolio at [Personal Website](http://ryancangela.com/)
+* 🌍  based in New York
+* 🖥️  portfolio can be found here [Personal Website](http://ryancangela.com/)
 * ✉️  You can contact me at [ryan.c.angela@gmail.com](mailto:ryan.c.angela@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on Front-end projects with developers and designers
